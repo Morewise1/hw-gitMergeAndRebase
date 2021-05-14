@@ -1,4 +1,7 @@
 #include <stdio.h>
 int main() {
-    printf("A"); // A
+<<<<<<< HEAD
+=======
+    printf("A: a good feature");
+>>>>>>> 0a44654 (A: finish featureA)
 }
