@@ -1,4 +1,8 @@
 #include <stdio.h>
 int main() {
-    printf("B"); // B
+<<<<<<< HEAD
+
+=======
+    printf("B: a good feature");
+>>>>>>> origin/my-feature-3
 }
